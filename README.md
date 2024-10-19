@@ -9,5 +9,5 @@ cd 32_squared_doubled
 make
 ```
 
-Required: **ncurces** library installed
+Required: **ncurses** library installed
 
