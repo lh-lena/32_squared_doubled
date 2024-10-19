@@ -7,6 +7,7 @@
 git clone git@github.com:lh-lena/32_squared_doubled.git
 cd 32_squared_doubled
 make
+./2048
 ```
 
 Required: **ncurses** library installed
